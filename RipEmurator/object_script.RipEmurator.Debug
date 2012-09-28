@@ -1,0 +1,13 @@
+INPUT(
+./debug\rawsender.o
+./debug\winpcapsender.o
+./debug\ripcore.o
+./debug\rippackagelistener.o
+./debug\ripinfosmodel.o
+./debug\main.o
+./debug\ripemurator.o
+./debug\moc_ripcore.o
+./debug\moc_rippackagelistener.o
+./debug\moc_ripinfosmodel.o
+./debug\moc_ripemurator.o
+);
